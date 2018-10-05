@@ -4,9 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId></groupId>
-	<artifactId></artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+  	<artifactId></artifactId>
+	<version>1.0</version>
 
 	<name></name>
 	<description></description>
